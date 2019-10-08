@@ -23,7 +23,7 @@ missing module named java - imported by platform (delayed), /home/dat-tran/Deskt
 missing module named 'java.lang' - imported by platform (delayed, optional), /home/dat-tran/Desktop/python/advance_python/Watch_App/Watch.py (top-level), xml.sax._exceptions (conditional)
 missing module named vms_lib - imported by platform (delayed, conditional, optional), /home/dat-tran/Desktop/python/advance_python/Watch_App/Watch.py (top-level)
 missing module named winreg - imported by platform (delayed, optional), mimetypes (optional), /home/dat-tran/Desktop/python/advance_python/Watch_App/Watch.py (top-level), urllib.request (delayed, conditional, optional)
-missing module named nt - imported by os (conditional, optional), ntpath (conditional, optional), shutil (conditional), /home/dat-tran/Desktop/python/advance_python/Watch_App/Watch.py (top-level)
+missing module named nt - imported by os (conditional, optional), shutil (conditional), ntpath (conditional, optional), /home/dat-tran/Desktop/python/advance_python/Watch_App/Watch.py (top-level)
 missing module named msvcrt - imported by subprocess (conditional), /home/dat-tran/Desktop/python/advance_python/Watch_App/Watch.py (top-level), getpass (optional)
 missing module named _winapi - imported by subprocess (conditional), /home/dat-tran/Desktop/python/advance_python/Watch_App/Watch.py (top-level)
 missing module named _dummy_threading - imported by dummy_threading (optional), /home/dat-tran/Desktop/python/advance_python/Watch_App/Watch.py (top-level)
