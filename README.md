@@ -1,9 +1,12 @@
 
 # 1. Introduction
-The purpose of this app is used for management watch. We have five components on this app, they are **Brand**, **Movement**, **Strap Material**, **Add Watch** and **View All Watch**. This app uses SQL Lite database at **data/db_Watch**.
+The purpose of this app is used for management watch. We have five components on this app, they are **Brand**, **Movement**, **Strap Material**, **Add Watch** and **View All Watch**. This app uses SQLite database at **data/db_Watch**.
 We have build a version for Ubuntu 18.04 and Window 7.
 * For Ubuntu enviroment, run file: **Watch_Ubuntu**
 * For Window7 enviroment, run file: **Watch_Window7.exe**
+
+We build this app using [Python 3.6.5](https://www.python.org/downloads/), [wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder/tree/v3.8.1) and [SQLite](https://www.sqlite.org/index.html)
+
 
 # 2. Application Overview
 The first screen when you run app is home page. This screen show all buttons, each button is a feature of app. User can access these feature via menu File.
