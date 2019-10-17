@@ -1,6 +1,6 @@
 
 # 1. Introduction
-The purpose of this app is used for management watch. We have five components on this app, they are **Brand**, **Movement**, **Strap Material**, **Add Watch** and **View All Watch**. This app uses SQLite database at **data/db_Watch**.
+The purpose of this app is used for watch management. We have five components on this app, they are **Brand**, **Movement**, **Strap Material**, **Add Watch** and **View All Watch**. This app uses SQLite database at **data/db_Watch**.
 We have build a version for Ubuntu 18.04 and Window 7.
 * For Ubuntu enviroment, run file: **Watch_Ubuntu**
 * For Window7 enviroment, run file: **Watch_Window7.exe**
